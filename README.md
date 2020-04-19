@@ -8,7 +8,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 2. Fetch / Save data to DB.
 3. Edit Content
 4. Shopping Basket
-View the app : https://anantdahiya8.github.io/shoppingapp/
+<br />View the app : https://anantdahiya8.github.io/shoppingapp/
 
 ## Development server
 
